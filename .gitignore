@@ -1,0 +1,5 @@
+config.env
+chroma_db/
+__pychache__/
+uploads/
+venv/
