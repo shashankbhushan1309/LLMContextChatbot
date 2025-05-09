@@ -1,5 +1,5 @@
 config.env
 chroma_db/
-__pychache__/
+__pycache__/
 uploads/
 venv/
